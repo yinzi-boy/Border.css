@@ -1,4 +1,4 @@
-# border.css
+# Border.css
 A collection of CSS3 border effects that can be applied to all HTML elements
 
 <a href="http://gsco.github.io/border/">Demo</a>
