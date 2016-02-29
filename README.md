@@ -5,7 +5,7 @@ A collection of CSS3 border effects that can be applied to all HTML elements
 
 # How To Use:
 
-First reference border.css in the <head> of your HTML page:
+First reference border.css in the head of your HTML page:
 
 ```
 <head>
